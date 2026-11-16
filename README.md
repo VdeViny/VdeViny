@@ -7,7 +7,6 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/vinycius-assagra"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <img src="https://img.shields.io/badge/Aberto_a_estágio-2ea44f?style=for-the-badge" alt="Aberto a estágio">
 </p>
 
 ---
