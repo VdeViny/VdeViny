@@ -36,6 +36,6 @@
 ### 📊 Estatísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VdeViny&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VdeViny&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Top linguagens">
+  <img height="170" src="https://streak-stats.demolab.com?user=VdeViny&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VdeViny&theme=tokyonight" alt="Linguagens">
 </p>
